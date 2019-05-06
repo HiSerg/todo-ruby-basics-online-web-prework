@@ -25,5 +25,5 @@ return "expert"
 end
 
 def pizza_party
-puts "cheese"
+  return "cheese"
 end
