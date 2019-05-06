@@ -13,7 +13,7 @@ def argue
 end
 
 def greeting (greeting , name)
-puts "Hi"
+puts greeting + name
 end
 
 def return_a_value
